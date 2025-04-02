@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zichun (Dwight) Xu"
 title_separator          : "-"
-name                     : &name "Zichun (Dwight) Xu"
-description              : &description "PhD student in Biostatistics at UW"
+name                     : &name "Zihang Yu"
+description              : &description "MS student in Biostatistics at UW"
 url                      : "https://zichun-xu.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zichun-xu/zichun-xu.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zichun (Dwight) Xu"
+  name             : "Zihang Yu"
   avatar           : "profile.jpg"
-  bio              : "PhD student in biostatistics at the University of Washington"
+  bio              : "MS student in biostatistics at the University of Washington"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CN9qxucAAAAJ&hl=en"
-  email            : "zx87@uw.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=CN9qxucAAAAJ&hl=en"
+  email            : "zihangyu@uw.edu"
   researchgate     :  
   uri              :
   bitbucket        :
