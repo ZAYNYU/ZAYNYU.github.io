@@ -1,22 +1,20 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year PhD student in the Department of Biostatistics at the University of Washington, working with Professors [Daniela Witten](https://www.danielawitten.com/) and [Ali Shojaie](https://faculty.washington.edu/ashojaie/) on semi-supervised learning. I also work with Professor [Jing Ma](https://drjingma.com/) on statistical network models. Prior to that, I earned my MS in Biostatistics at Yale University, where I was fortunate to be advised by Professors [Hongyu Zhao](https://zhaocenter.org/) and [Jingfei Zhang](https://sites.google.com/view/ejzhang/home?authuser=0). Before graduate school, I earned my BS in Biotechnology at Fudan University, where I worked with Professor [Xiaolei Lin](https://xiaolei-lin.github.io/).
+I got my MS in Biostatistics at the University of Washington. I worked with Professor [Jon Wakefield](https://faculty.washington.edu/jonno/) on spatial analysis and Professor [James Hughes](https://faculty.washington.edu/jphughes/) on cluster randomized trials. I earned my BS in Statistics at the University of Nottingham. During my undergraduate, I worked with Professor [Steven Julious](https://www.sheffield.ac.uk/smph/people/academic/population-health/steven-julious) and Dr. [Munya Dimairo](https://www.sheffield.ac.uk/smph/people/academic/population-health/munya-dimairo) on sample size estimation for adaptive trials.
 
 ### Research Interests
-* Semi-supervised learning
-* Valid inference and uncertainty quantifications
-* Statistical network analysis
-* Statistical applications in genetics and genomics
+* Clinical trial design
+* Bayesian statistics
+* Spatial analysis
 
 ### Education
-* Ph.D in Biostatistics, University of Washington, 2027 (expected)
-* M.S. in Biostatistics, Yale University, 2023
-* B.S. in Biotechnology, Fudan University, 2021
+* M.S. in Biostatistics, University of Washington, Seattle, US, 2025
+* B.S. in Statistics, University of Nottingham, Nottingham, UK, 2023
