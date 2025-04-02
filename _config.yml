@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zichun (Dwight) Xu"
+title                    : "Zihang Yu"
 title_separator          : "-"
 name                     : &name "Zihang Yu"
 description              : &description "MS student in Biostatistics at UW"
-url                      : "https://zichun-xu.github.io" 
+url                      : "https://ZAYNYU.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zichun-xu/zichun-xu.github.io"
+repository               : "ZAYNYU/ZAYNYU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zihang Yu"
-  avatar           : "profile.jpg"
+  avatar           : "photo.jpg"
   bio              : "MS student in biostatistics at the University of Washington"
   location         : 
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ZichunXu2"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
