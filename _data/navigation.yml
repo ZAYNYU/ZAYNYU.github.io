@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Portfolio"
+    url: /Portfolio/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "CV"
+#   url: /files/ZY_CV.pdf
 
   - title: "Teaching"
     url: /teaching/
