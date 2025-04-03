@@ -9,14 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Preprints
-- <b>Zichun Xu</b>, Daniela Witten, Ali Shojaie (2024). "A unified framework for semiparametrically efficient semi-supervised learning." <i> Under review.</i> <a href = "https://arxiv.org/abs/2502.17741">[preprint]</a> <i> (Student Paper Award at JSM Nonparametric Statistics Section, 2025) </i>
-
-- Ronan Perry\*, <b>Zichun Xu\*</b>, Olivia McGough\*, Daniela Witten (2024). "Infer-and-widen versus split-and-condition: two tales of selective inference." <i>Under review.</i> <a href = "https://arxiv.org/abs/2408.06323">[preprint]</a>
-
 ### Publications
-- Chang Su, <b>Zichun Xu</b>, Xinning Shan, Biao Cai, Hongyu Zhao, and Jingfei Zhang. "Cell-type-specific co-expression inference from single cell RNA-sequencing data." <i>Nature Communications (2023).</i> <a href = "https://www.nature.com/articles/s41467-023-40503-7">[paper]</a>
-
-- <b>Zichun Xu</b>, and Xiaolei Lin. "Probability-of-decision interval 3+ 3 (POD-i3+ 3) design for phase I dose finding trials with late-onset toxicity." <i>Statistical Methods in Medical Research (2022).</i> <a href = "https://journals.sagepub.com/doi/10.1177/09622802211052746">[paper]</a>
-
-(*equal contribution or co-first authors)
+- Zhang, Q., Dimairo, M., Julious, S.A., Lewis, J., Yu, Z. Reporting and communication of sample size 
+calculations in adaptive clinical trials: a review of trial protocols and grant applications.<i> BMC Med Res 
+Methodol 24, 216 (2024). <i><a href = "https://doi.org/10.1186/s12874-024-02339-7">[paper]</a>
