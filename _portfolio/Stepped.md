@@ -1,7 +1,7 @@
 ---
-title: "Modelling Airbnb Listing Prices in Toronto"
-excerpt: "Bayesian hierarchical models using a Room Type top-level."
+title: "Analysis time-varying treatment effects in Stepped-wedge cluster randomized trials"
+Supervisor: Professor James Hughes, University of Washington, Seattle, US
 collection: portfolio
 ---
 
-As the final assessment for the 2020 edition of STA 2201H: Applied Statistics II at the Univesity of Toronto, we were tasked with modelling Airbnb prices in Toronto within a Bayesian hierarchcial framework. In my analysis, I considered two setups: the first involved a simple hierarchical specification with a room type top-level and the second builds on the first by introducing variable covariate coefficients. Both models perform well though it appears the varying slopes model captures additional relevant patterns in the data. A copy of the analyses performed can be found [here](https://ameerd.github.io/files/Airbnb-Models.html).
+Most current analysis methods for Stepped-wedge cluster randomized trials (SW-CRTs) assume a constant treatment effect, even though emerging evidence suggests this assumption is often violated in practice. Given this background, we collected a large number of de-identified datasets from stepped wedge trials, then we analyzed each dataset by methods that do and do not rely on the assumption of a constant treatment effect and compared the results. We developed an R package to compute robust variances for generalized linear mixed models fitted using the ‘glmer’ function. I also led a large-scale simulation study to evaluate the package’s performance in handling time-varying treatment effects. The package is currently in the process of publication to CRAN.
