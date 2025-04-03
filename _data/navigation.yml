@@ -6,5 +6,8 @@ main:
 #  - title: "CV"
 #   url: /files/ZY_CV.pdf
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Teaching"
     url: /teaching/
