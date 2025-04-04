@@ -1,6 +1,6 @@
 ---
 title: "Analysis time-varying treatment effects in Stepped-wedge cluster randomized trials"
-Supervisor: Professor James Hughes, University of Washington, Seattle, US
+excerpt: "Supervisor: Professor James Hughes, University of Washington, Seattle, US"
 collection: portfolio
 ---
 
