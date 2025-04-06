@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Experience
-{% for post in site.conferences reversed %}
+{% for post in site.experience reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
