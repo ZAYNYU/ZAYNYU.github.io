@@ -5,6 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-{% for post in site.preprints %}
+{% for post in site.experience %}
   {% include archive-single.html %}
 {% endfor %}
