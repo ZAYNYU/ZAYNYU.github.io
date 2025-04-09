@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Preprints"
-permalink: /preprints/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
 
