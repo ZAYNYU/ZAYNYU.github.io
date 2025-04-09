@@ -3,6 +3,7 @@ title: "Biostatistics Intern"
 excerpt: "USC Alzheimer’s Therapeutic Research Institute (ATRI) - San Diego, California, USA"
 collection: experience
 order: 1
+layout: single
 permalink: /experience/ATRI
 ---
 
