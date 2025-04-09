@@ -1,7 +1,7 @@
 ---
-title: "Analysis time-varying treatment effects in Stepped-wedge cluster randomized trials"
-excerpt: "Supervisor: Professor James Hughes, University of Washington, Seattle, US"
+title: ""
+excerpt: "Supervisor: Professor Jon Wakefield, University of Washington, Seattle, US; Professor Zehang Richard Li, University of California Santa Cruz, Santa Cruz, US"
 collection: portfolio
 ---
 
-Most current analysis methods for Stepped-wedge cluster randomized trials (SW-CRTs) assume a constant treatment effect, even though emerging evidence suggests this assumption is often violated in practice. Given this background, we collected a large number of de-identified datasets from stepped wedge trials, then we analyzed each dataset by methods that do and do not rely on the assumption of a constant treatment effect and compared the results. We developed an R package to compute robust variances for generalized linear mixed models fitted using the ‘glmer’ function. I also led a large-scale simulation study to evaluate the package’s performance in handling time-varying treatment effects. The package is currently in the process of publication to CRAN.
+I analyzed large-scale survey data from the Multiple Indicator Cluster Surveys (MICS) to assess key child health indicators—including neonatal mortality rate (NMR), vaccination coverage, and stunting—across multiple countries such as Sierra Leone, Gambia, and Laos. We applied small area estimation techniques to generate subnational estimates that provide more granular insights into public health disparities. This work contributed to a presentation at the “Children's Lives: International Conference on Children and Their Families using the Multiple Indicator Cluster Surveys (MICS),” delivered by Professor Jon Wakefield.
