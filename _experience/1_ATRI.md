@@ -6,7 +6,7 @@ order: 1
 permalink: /experience/ATRI
 ---
 
-I contributed to the preparation of the final analysis for the<a href = "https://mindstudy.org/">[MIND] Study — a Phase 2, multi-center, double-blind, randomized controlled trial. The study investigates whether the use of nicotine, delivered via transdermal patch, can safely improve memory and functioning in individuals diagnosed with mild memory loss or mild cognitive impairment (MCI).
+I contributed to the preparation of the final analysis for the<a href = "https://mindstudy.org/"> [MIND] </a>Study — a Phase 2, multi-center, double-blind, randomized controlled trial. The study investigates whether the use of nicotine, delivered via transdermal patch, can safely improve memory and functioning in individuals diagnosed with mild memory loss or mild cognitive impairment (MCI).
 
 My contributions included deriving standardized analysis datasets (ADaM/SDTM), coding scoring functions for key clinical outcomes using R, and developing visualizations of the study flow, including a CONSORT diagram. I also authored the Safety Analysis Report, which provided a detailed summary and evaluation of adverse events (AEs), serious adverse events (SAEs), and deaths.
 
