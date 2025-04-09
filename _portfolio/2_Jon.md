@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Spatial analysis and disease prevalence mapping using MICS survey data"
 excerpt: "Supervisor: Professor Jon Wakefield, University of Washington, Seattle, US; Professor Zehang Richard Li, University of California Santa Cruz, Santa Cruz, US"
 collection: portfolio
 ---
