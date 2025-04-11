@@ -2,7 +2,7 @@
 title: "Research Assistant"
 excerpt: "University of Sheffield, Sheffield Center for Health and Related Research (SCHARR) - Sheffield, UK"
 collection: experience
-layout: single
+layout: default
 order: 2
 permalink: /experience/Sheffield
 ---
