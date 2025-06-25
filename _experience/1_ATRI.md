@@ -5,6 +5,7 @@ collection: experience
 order: 1
 layout: single
 permalink: /experience/ATRI
+author_profile: true
 ---
 
 I contributed to the preparation of the final analysis for the<a href = "https://mindstudy.org/"> [MIND] </a>Study — a Phase 2, multi-center, double-blind, randomized controlled trial. The study investigates whether the use of nicotine, delivered via transdermal patch, can safely improve memory and functioning in individuals diagnosed with mild memory loss or mild cognitive impairment (MCI).
